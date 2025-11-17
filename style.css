@@ -533,6 +533,16 @@ a:hover {
   margin: 0 auto 8px auto;
 }
 
+#Signature h2{
+    font-family: "Great Vibes", cursive;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    line-height: 1.7;
+    text-align: left; /* Чтобы списки были выровнены */
+    max-width: 400px; /* Для лучшего вида */
+    margin: 0 auto 10px auto; / 
+}
+
 /* Адаптивность */
 @media (max-width: 768px) {
   .decorative-image {
