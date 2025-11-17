@@ -4,7 +4,7 @@ const preloaderContentWrapper = document.querySelector('.preloader-content-wrapp
 const weddingDateString = "2026-06-12 12:00:00";
 const backgroundVideoSrc = "Particles_2_29s_2kres.mp4";
 const loveSong = new Audio('musicLove.mp3');
-const telegramChannelLink = "https://t.me/RomaAndLiza_bot";
+const telegramChannelLink = "https://t.me/+QnuzsJjPhLsyYmZi";
 // --- КОНЕЦ КОНФИГУРАЦИИ ---
 
 // Получаем элементы DOM
